@@ -4,11 +4,11 @@ An application created to track investment values using the public API provided 
 
 The main idea of the project is to compare my Steam investments with the current value of the items!
 
-For this, I utilized:
+For this, I used:
+- Consumption of the Steam public API using the RestSharp library;
+- Local database queries to check purchased items, quantities, amounts paid, and the dates of investment;
+- Use of the DataGridView provided by Windows Forms to create a user-friendly interface for presenting my data in a more organized and appealing way.
 
-Consumption of the Steam public API using the RestSharp library;
-Local database queries to check purchased items, quantities, amounts paid, and the dates of investment;
-Use of the DataGridView provided by Windows Forms to create a user-friendly interface for presenting my data in a more organized and appealing way.
 The system includes Profit Percentages, Gross Profit, and Net Profit (after Steam fees).
 
 Development:
