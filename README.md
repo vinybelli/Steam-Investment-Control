@@ -12,7 +12,7 @@ For this, I used:
 The system includes Profit Percentages, Gross Profit, and Net Profit (after Steam fees).
 
 Development:
-Vinicius Belli
+Belli, Vinicius
 
 # Portuguese Description:
 
