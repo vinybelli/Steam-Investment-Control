@@ -1,5 +1,3 @@
-# Steam-Investment-Control
-
 # English Description:
 
 An application created to track investment values using the public API provided by Steam.
@@ -15,8 +13,6 @@ The system includes Profit Percentages, Gross Profit, and Net Profit (after Stea
 
 Development:
 Vinicius Belli
-
-----------------------------------------------------------
 
 # Portuguese Description:
 
