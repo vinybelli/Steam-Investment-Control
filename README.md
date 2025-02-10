@@ -1,4 +1,4 @@
-# English Description:
+# English Description
 
 An application created to track investment values using the public API provided by Steam.
 
@@ -14,7 +14,7 @@ The system includes Profit Percentages, Gross Profit, and Net Profit (after Stea
 Development:
 Belli, Vinicius
 
-# Portuguese Description:
+# Portuguese Description
 
 Aplicativo criado para controlar valores de Investimentos através da API pública disponibilizada pela própria Steam
 
